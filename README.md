@@ -193,12 +193,3 @@ acoustic-drone-detection/
 3. Kılıç, R., et al. "Drone classification using RF signal based spectral features." JESTECH, 2022.
 4. Strauss, M., et al. "DREGON: Dataset and Methods for UAV-Embedded Sound Source Localization." IEEE/RSJ IROS, 2018.
 5. Kümmritz, S. "The Sound of Surveillance: Enhancing ML-Driven Drone Detection." Drones, 2024.
-
-## 📄 Lisans
-
-MIT License - Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 👤 İletişim
-
-- **Ders**: İstatistiksel İşaret İşleme
-
