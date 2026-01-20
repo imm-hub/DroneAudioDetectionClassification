@@ -5,7 +5,7 @@
 
 **İstatistiksel Sinyal İşleme ve Derin Öğrenme ile Akustik Drone Tespiti**
 
-Bu proje, İstatistiksel İşaret İşleme dersi dönem projesi olarak hazırlanmıştır. Droneların akustik imzalarını kullanarak tespit ve sınıflandırma gerçekleştirilmektedir.
+Bu proje, droneların akustik imzalarını kullanarak tespit ve sınıflandırma gerçekleştirilmektedir.
 
 ## 📋 İçindekiler
 
